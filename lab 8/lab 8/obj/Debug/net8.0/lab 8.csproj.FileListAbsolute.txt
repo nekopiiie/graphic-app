@@ -1,0 +1,33 @@
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\appsettings.Development.json
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\appsettings.json
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\lab 8.exe
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\lab 8.deps.json
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\lab 8.runtimeconfig.json
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\lab 8.dll
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\lab 8.pdb
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\graphic-app\lab 8\lab 8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.csproj.AssemblyReference.cache
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.AssemblyInfoInputs.cache
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.AssemblyInfo.cs
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.csproj.CoreCompileInputs.cache
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.MvcApplicationPartsAssemblyInfo.cs
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.MvcApplicationPartsAssemblyInfo.cache
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.sourcelink.json
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets.build.json
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets.development.json
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets\msbuild.lab 8.Microsoft.AspNetCore.StaticWebAssets.props
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets\msbuild.build.lab 8.props
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab 8.props
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab 8.props
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\staticwebassets.pack.json
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\scopedcss\bundle\lab 8.styles.css
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.csproj.Up2Date
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.dll
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\refint\lab 8.dll
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.pdb
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\lab 8.genruntimeconfig.cache
+D:\graphic-app\lab 8\lab 8\obj\Debug\net8.0\ref\lab 8.dll
