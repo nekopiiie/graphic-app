@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "D:\\graphic-app\\lab 8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\lab 8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\lab 8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|d:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311A0475-3AFD-4E9D-B7DC-1713D3E75A7A}|lab 8\\lab 8.csproj|solutionrelative:lab 8\\lab 8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +58,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lab 8",
-              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
-              "RelativeDocumentMoniker": "lab 8\\lab 8.csproj",
-              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
-              "RelativeToolTip": "lab 8\\lab 8.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T14:55:07.612Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "lab 8\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "lab 8\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:11:50.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NotesController.cs",
               "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "lab 8\\Controllers\\NotesController.cs",
               "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Controllers\\NotesController.cs",
               "RelativeToolTip": "lab 8\\Controllers\\NotesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T14:36:57.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Program.cs",
               "RelativeDocumentMoniker": "lab 8\\Program.cs",
               "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Program.cs",
               "RelativeToolTip": "lab 8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T14:26:15.534Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lab 8\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lab 8\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:09:34.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "lab 8\\appsettings.Development.json",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\appsettings.Development.json",
+              "RelativeToolTip": "lab 8\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T14:28:41.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "lab 8\\Contracts\\NoteDto.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "lab 8\\Contracts\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:17:47.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "lab 8\\Models\\Note.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Models\\Note.cs",
+              "RelativeToolTip": "lab 8\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:48:31.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "lab 8\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "lab 8\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:10:44.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "lab 8\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "lab 8\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:12:02.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab 8",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
+              "RelativeDocumentMoniker": "lab 8\\lab 8.csproj",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
+              "RelativeToolTip": "lab 8\\lab 8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T18:48:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "lab 8\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "lab 8\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:41:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lab 8.csproj",
+              "DocumentMoniker": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
+              "RelativeDocumentMoniker": "lab 8\\lab 8.csproj",
+              "ToolTip": "D:\\graphic-app\\lab 8\\lab 8\\lab 8.csproj",
+              "RelativeToolTip": "lab 8\\lab 8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T14:55:07.612Z"
             }
           ]
         }

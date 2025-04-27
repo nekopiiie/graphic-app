@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "MyNotes.Controllers.NotesController",
+    "Method": "Create",
+    "RelativePath": "Notes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "lab_8.Contracts.CreateNoteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNotes.Controllers.NotesController",
+    "Method": "GetNotes",
+    "RelativePath": "Notes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sort",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "order",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "lab_8.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
